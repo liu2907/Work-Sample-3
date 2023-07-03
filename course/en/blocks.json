@@ -1,0 +1,1058 @@
+[
+  {
+    "title": "A1, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "61967cd45491500341c9b950",
+    "_parentId": "61967cd45491500341c9b94f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "6196d2935491500341c9b990",
+    "_parentId": "6196d2935491500341c9b98f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "6196d5fb5491500341c9b998",
+    "_parentId": "6196d5fb5491500341c9b997",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "6196d9145491500341c9b9a2",
+    "_parentId": "6196d9145491500341c9b9a1",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "6197e41d5491500341c9b9b5",
+    "_parentId": "6197e41d5491500341c9b9b4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A4, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619baca45491500341c9b9cc",
+    "_parentId": "619baca45491500341c9b9cb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619badfe5491500341c9b9d3",
+    "_parentId": "619badfe5491500341c9b9d2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bb0935491500341c9b9dd",
+    "_parentId": "619bb0935491500341c9b9dc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A4, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bb65b5491500341c9b9ec",
+    "_parentId": "619bb65b5491500341c9b9eb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bbde35491500341c9b9f3",
+    "_parentId": "619bbde25491500341c9b9f2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bda0f5491500341c9ba12",
+    "_parentId": "619bda0f5491500341c9ba11",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bf4025491500341c9ba1e",
+    "_parentId": "619bf4025491500341c9ba1d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "61eacafb5491500341c9c67d",
+    "_parentId": "619682cc5491500341c9b958",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "62169f9d0edb6d033e510b46",
+    "_parentId": "62169f9c0edb6d033e510b45",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619686285491500341c9b965",
+    "_parentId": "619682cc5491500341c9b958",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "ADA Protections",
+    "displayTitle": "ADA Protections",
+    "body": "<p>The goal of the ADA is to ensure that people with disabilities are able to live fulfilling lives and engage in the same aspects of public and daily life as people who do not have disabilities.</p><p>A crucial aspect of daily life is being able to work; having a disability shouldn’t hold a person back from being able to earn a living. As such, the law provides protections for employment in two ways. Read each type of protection, then click Example to learn more.</p>",
+    "_classes": "",
+    "_trackingId": 16,
+    "instruction": "Click the Example button on the bottom of each card to learn more.",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "6196da0a5491500341c9b9a6",
+    "_parentId": "6196d9145491500341c9b9a1",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 17,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "61981ba85491500341c9b9c7",
+    "_parentId": "6197e41d5491500341c9b9b4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A4, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bad145491500341c9b9ce",
+    "_parentId": "619baca45491500341c9b9cb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A1, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619baf9a5491500341c9b9da",
+    "_parentId": "619badfe5491500341c9b9d2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 20,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bb15b5491500341c9b9e3",
+    "_parentId": "619bb0935491500341c9b9dc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A4, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bb6955491500341c9b9ee",
+    "_parentId": "619bb65b5491500341c9b9eb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 22,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bbf9e5491500341c9b9fb",
+    "_parentId": "619bbde25491500341c9b9f2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 23,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bf28f5491500341c9ba19",
+    "_parentId": "619bda0f5491500341c9ba11",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 24,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bf73c5491500341c9ba20",
+    "_parentId": "619bf4025491500341c9ba1d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 25,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619686da5491500341c9b96c",
+    "_parentId": "619682cc5491500341c9b958",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A3, B2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 26,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "6196d30e5491500341c9b993",
+    "_parentId": "6196d2935491500341c9b98f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "When ADA Protections Apply",
+    "displayTitle": "When ADA Protections Apply",
+    "body": "<p>The ADA doesn’t just apply to employees already on the job.&nbsp;Read about each of the other times when employees are protected, then click Example to learn more.</p>",
+    "_classes": "",
+    "_trackingId": 27,
+    "instruction": "Click the Example button on the bottom of each card to learn more",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "6197e34e5491500341c9b9af",
+    "_parentId": "6196d9145491500341c9b9a1",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 28,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bb3c25491500341c9b9e5",
+    "_parentId": "619bb0935491500341c9b9dc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 29,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bc6cf5491500341c9ba03",
+    "_parentId": "619bbde25491500341c9b9f2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 30,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bf36f5491500341c9ba1b",
+    "_parentId": "619bda0f5491500341c9ba11",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B4",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 31,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bb4185491500341c9b9e7",
+    "_parentId": "619bb0935491500341c9b9dc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B5",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 32,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bb51b5491500341c9b9e9",
+    "_parentId": "619bb0935491500341c9b9dc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "A2, B4",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 33,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "619bd9435491500341c9ba0f",
+    "_parentId": "619bbde25491500341c9b9f2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_grid": {
+      "_isEnabled": false,
+      "gridType": "grid-6-6",
+      "_hideFirst": false,
+      "_hideSecond": false,
+      "align": "align-none"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]

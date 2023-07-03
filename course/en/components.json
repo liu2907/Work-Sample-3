@@ -1,0 +1,1752 @@
+[
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Learning Module Features",
+    "displayTitle": "Learning Module Features",
+    "body": "<p>Before we begin, let’s explore some functions of the Learning Modules.</p>",
+    "_id": "61967e345491500341c9b953",
+    "_parentId": "61967cd45491500341c9b950",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each topic to learn more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Order of Modules",
+        "body": "<p>Complete all the modules in the order they are presented. As you complete one module, the next one will become available.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Activity Completion",
+        "body": "<p>Throughout these Learning Modules, you will be asked to complete activities, such as answering questions or clicking features. These activities are required to be completed and are marked with a <strong>Required</strong><em> </em>indicator. The indicator will change to <strong>Complete</strong><em> </em>when the activity is finished.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Progress",
+        "body": "<p>You can track your progress in each module, including content you have and have not completed, by clicking the progress bar on the top right-side of this screen.</p><p>You will be prevented from moving to the next module if there is an interaction in the current module that is not yet complete.</p>",
+        "_graphic": {
+          "alt": "Progress bar",
+          "src": "course/en/assets/5ef3e5f9c3b7350bd97a0c520f6c574271b075e5.jpg",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Course Completion",
+        "body": "<p>You do not have to complete all the learning modules in one sitting. They are designed to save your place as you move through them.</p><p>This feature will not work, and your completion progress will not be saved, if you close the main Learning Management System (LMS) window on your browser while the Learning Modules window remains open. Please leave both windows open as you take this course.</p><p>If you need to stop before you are finished, close this window first to save your progress.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What To Do?",
+    "displayTitle": "What To Do?",
+    "body": "<p>It seems from Jane’s predicament she needs to apply for Family Medical Leave Act (FMLA) leave.</p><p>…or does she?</p><p>What if there was another way for OKDHS to work with her so she could continue to do her job without needing to use FMLA?</p><p>Is there anything that can save Jane’s struggling paid leave bank?</p>",
+    "_id": "619686395491500341c9b966",
+    "_parentId": "619686285491500341c9b965",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "m01g02",
+    "displayTitle": "",
+    "body": "",
+    "_id": "619686595491500341c9b967",
+    "_parentId": "619686285491500341c9b965",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Jane in a dark room with her eyes closed",
+      "large": "course/en/assets/a296261798ccae78873cd18b1afe5b654b589a27.jpg",
+      "small": "course/en/assets/a296261798ccae78873cd18b1afe5b654b589a27.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "FMLA, ADA, IDK?",
+    "displayTitle": "FMLA, ADA, IDK?",
+    "body": "<p>Could the Americans with Disabilities Act (ADA) be a solution for Jane?&nbsp;Could it be a solution for you, now or in the future?</p><p>In this course, you will find out, including:</p><ul><li>Why the ADA exists and who it protects</li><li>What qualifies a person for a work accommodation per the ADA</li><li>How to apply for an ADA accommodation</li><li>Your rights under the law</li></ul><p>At the end of the course, you will complete a short assessment to ensure you understand your rights and how to apply for an ADA accommodation.</p>",
+    "_id": "619686ea5491500341c9b96d",
+    "_parentId": "619686da5491500341c9b96c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Conclusion",
+    "displayTitle": "Conclusion",
+    "body": "<p>Let’s learn a bit about the ADA.</p>",
+    "_id": "6196d2c45491500341c9b991",
+    "_parentId": "6196d2935491500341c9b990",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Go To Menu",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6196d3335491500341c9b994",
+    "_parentId": "6196d30e5491500341c9b993",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Return to the Learning Modules Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "gotopage",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Go to Page",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6196d3545491500341c9b995",
+    "_parentId": "6196d30e5491500341c9b993",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Continue to the Next Module: What is the ADA?",
+    "pageID": "6196d5fb5491500341c9b996",
+    "dialogTitle": "Page Incomplete",
+    "dialogBody": "<p>There are items on this page that must be completed before you can continue.</p>",
+    "incompleteButton": "Go To Incomplete",
+    "viewAllButton": "View All"
+  },
+  {
+    "_component": "thinkingmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What Do You Think?",
+    "displayTitle": "What Do You Think?",
+    "body": "<p>Based on what Ted said, do you think Jane’s condition might fit the definition of a disability under the ADA (a physical or mental impairment that substantially limits one or more major life activities)?</p>",
+    "_id": "6196d95b5491500341c9b9a4",
+    "_parentId": "6196d9145491500341c9b9a2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "",
+    "animation": "flip",
+    "header": "course/en/assets/8764d485427bddbb868d65bc754f131e6567e895.jpg",
+    "headerAlt": "Jane wearing sunglasses at her desk due to migraine",
+    "questionTitle": "",
+    "question": "<p><strong>Select your answer, then click Submit.</strong></p>",
+    "_items": [
+      {
+        "text": "Yes"
+      },
+      {
+        "text": "No"
+      }
+    ],
+    "_multiselect": false,
+    "feedbackTitle": "",
+    "feedback": "<p>While some disabilities are easy to notice, many other conditions aren’t commonly recognized as disabilities, such as Jane’s migraines. This is especially true of mental health and cognitive conditions that can interfere with a person’s ability to work.</p><p>Many workers aren’t aware that their health conditions qualify as disabilities under the ADA, and don’t realize their jobs could be made easier with the protections the law allows.</p><p>We’ll visit back with Jane in a bit. For now, let’s learn more about the ADA.</p>",
+    "buttonText": "Submit",
+    "showFeedback": "Show Feedback",
+    "showQuestion": "Show Question"
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Reasonable Accommodations",
+    "displayTitle": "Reasonable Accommodations",
+    "body": "",
+    "_id": "6196da5d5491500341c9b9a7",
+    "_parentId": "6196da0a5491500341c9b9a6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "",
+    "animation": "flip",
+    "front": {
+      "title": "",
+      "src": "course/en/assets/aa93c3f7056d3309c6c014f8890cbef916900201.jpg",
+      "alt": "Carl’s hands typing on a Braille keyboard",
+      "body": "<p>The ADA requires employers to make “reasonable accommodations” to assist qualified employees who, due to a disability, may need a modification to their work processes, environment, or equipment so they can perform their job duties.</p>",
+      "button": "Example"
+    },
+    "back": {
+      "title": "Carl",
+      "src": "course/en/assets/aa93c3f7056d3309c6c014f8890cbef916900201.jpg",
+      "alt": "Carl’s hands typing on a Braille keyboard",
+      "body": "<p>Carl is a skilled data analyst who is legally blind. While he can analyze and organize data as well as his sighted colleagues, he needs a type of software called a “screen reader” on his computer to read screen content aloud to him. He also requires a special keyboard with Braille characters to type.</p><p>A reasonable accommodation under the ADA is for Carl’s employer to provide screen reader software and a Braille keyboard so Carl can perform his job duties.</p>",
+      "button": "Go Back"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Discrimination",
+    "displayTitle": "Discrimination",
+    "body": "",
+    "_id": "6197e02a5491500341c9b9aa",
+    "_parentId": "6196da0a5491500341c9b9a6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "",
+    "animation": "flip",
+    "front": {
+      "title": "",
+      "src": "course/en/assets/1d4d3efc89f24ab5d25801c30cf48e8862a452ca.jpg",
+      "alt": "Rita in a job interview",
+      "body": "<p>The ADA provides legal protections for people with disabilities, or people who are believed to have a disability, who experience discrimination in employment.</p><p>This includes, but is not limited to, the following examples when they are related to a person’s real or perceived disability:</p><ul><li>Being denied employment or promotion</li><li>Being excluded from work activities</li><li>Receiving negative performance reviews</li><li>Being harassed, retaliated against, or subject to punitive treatment</li></ul>",
+      "button": "Example"
+    },
+    "back": {
+      "title": "Rita",
+      "src": "course/en/assets/1d4d3efc89f24ab5d25801c30cf48e8862a452ca.jpg",
+      "alt": "Rita in a job interview",
+      "body": "<p>Rita has applied for a promotion to a position with management responsibilities. Rita was hospitalized a few months ago with heart palpitations and was having trouble breathing.</p><p>Although she is qualified for the position, the hiring managers decline to consider her as a candidate because they assume, due to her hospitalization, she will not be able to handle the stress of a management position. They have violated the ADA because they have prevented her from being promoted due to their perception of her disability status.</p>",
+      "button": "Go Back"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "When Applying for a Position",
+    "displayTitle": "When Applying for a Position",
+    "body": "",
+    "_id": "6197e34e5491500341c9b9b0",
+    "_parentId": "6197e34e5491500341c9b9af",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "",
+    "animation": "flip",
+    "front": {
+      "title": "",
+      "src": "course/en/assets/e6ec4668aba057eff2410b0de861d993ffad2efe.jpg",
+      "alt": "Judd in military uniform during his deployment",
+      "body": "<p>The ADA prohibits discrimination in the application and hiring process.</p>",
+      "button": "Example"
+    },
+    "back": {
+      "title": "Judd",
+      "src": "course/en/assets/e6ec4668aba057eff2410b0de861d993ffad2efe.jpg",
+      "alt": "Judd in military uniform during his deployment",
+      "body": "<p>Judd has recently returned home from a military deployment in a combat area and applies for a new position. The hiring manager weeds him out from consideration because the manager believes all soldiers who were in combat suffer from Post-Traumatic Stress Syndrome (PTSD), and the manager doesn’t want to have to deal with any disruptions this condition might cause.</p><p>The hiring manager has violated the ADA because he presumed Judd to have a disability and denied him employment because of it.</p>",
+      "button": "Go Back"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "After Issuing a Job Offer",
+    "displayTitle": "After Issuing a Job Offer",
+    "body": "",
+    "_id": "6197e34e5491500341c9b9b2",
+    "_parentId": "6197e34e5491500341c9b9af",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "",
+    "animation": "flip",
+    "front": {
+      "title": "",
+      "src": "course/en/assets/7709a0259b95c912f0c785ef05c290afaece89fb.jpg",
+      "alt": "Amy in a virtual job interview",
+      "body": "<p>The ADA protects individuals between the time they are offered a job and when they start work.</p>",
+      "button": "Example"
+    },
+    "back": {
+      "title": "Amy",
+      "src": "course/en/assets/7709a0259b95c912f0c785ef05c290afaece89fb.jpg",
+      "alt": "Amy in a virtual job interview",
+      "body": "<p>Amy has accepted an offer of employment. Before her first day, she informs her new supervisor that she has Crohn’s Disease, and sometimes needs to take unplanned, extended restroom breaks when she is having a flare-up. The employer finds this unacceptable and rescinds the job offer. This is a violation of the ADA.</p>",
+      "button": "Go Back"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Covered Entities",
+    "displayTitle": "Covered Entities",
+    "body": "<p>Only “covered entity” employers must adhere to ADA employment requirements. The following employers are all covered entities per the law. As an OKDHS employee, which one applies to you?</p>",
+    "_id": "6197e47e5491500341c9b9b7",
+    "_parentId": "6197e41d5491500341c9b9b5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select the best answer, then click Submit.",
+    "_items": [
+      {
+        "text": "Private employers with 15 or more employees",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "State and local government employers",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Employment agencies",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Labor organizations",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Joint labor-management committees",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>Correct! </strong></p><p>As an OKDHS employee, you are entitled to ADA protections because you are an employee of a state government.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Not quite.</strong></p><p>As an OKDHS employee, you are entitled to ADA protections because you are an employee of a state government.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "qcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Remote Work",
+    "displayTitle": "Remote Work",
+    "body": "<p>Answer whether you think the following statement is True or False: ADA protections only apply to people who physically work at their employer’s job site.</p>",
+    "_id": "61981da25491500341c9b9c8",
+    "_parentId": "61981ba85491500341c9b9c7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "",
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_isRandom": false,
+    "animation": "flip",
+    "questionSrc": "course/en/assets/bf804953999bb8f91f877fa3cbdeaa214d19ba87.jpg",
+    "questionAlt": "OKDHS office building",
+    "question": "<p><strong>Select the best answer, then click Submit.</strong></p>",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true
+      }
+    ],
+    "submitButton": "Submit",
+    "questionButton": "Review Question",
+    "submitButtonReview": "Review Feedback",
+    "correctFeedback": {
+      "title": "",
+      "src": "course/en/assets/8153a9c86d389596757d5198f5930924fab54ce6.jpg",
+      "alt": "Employee working from home",
+      "text": "<p><strong>That’s right!</strong></p><p>While some necessary accommodations only apply to an employer’s job site (such as handicap parking spaces and ramps), many kinds of accommodations are needed no matter where a person works. Also, discrimination based on a disability can occur just as easily when someone works remotely as when they work at a job site.</p><p>ADA protections apply no matter where an employee performs their job.</p>"
+    },
+    "incorrectFeedback": {
+      "title": "",
+      "src": "course/en/assets/8153a9c86d389596757d5198f5930924fab54ce6.jpg",
+      "alt": "Employee working from home",
+      "text": "<p><strong>Not quite.</strong></p><p>While some necessary accommodations only apply to an employer’s job site (such as handicap parking spaces and ramps), many kinds of accommodations are needed no matter where a person works. Also, discrimination based on a disability can occur just as easily when someone works remotely as when they work at a job site.</p><p>ADA protections apply no matter where an employee performs their job.</p>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Conclusion",
+    "displayTitle": "Conclusion",
+    "body": "<p>Now that you know a bit about ADA protections, let’s learn how you might apply for a reasonable work accommodation per the ADA.</p>",
+    "_id": "619bacdb5491500341c9b9cd",
+    "_parentId": "619baca45491500341c9b9cc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Go to Menu",
+    "displayTitle": "",
+    "body": "",
+    "_id": "619bad245491500341c9b9cf",
+    "_parentId": "619bad145491500341c9b9ce",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Return to the Learning Modules Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "gotopage",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Go to Page",
+    "displayTitle": "",
+    "body": "",
+    "_id": "619bad405491500341c9b9d0",
+    "_parentId": "619bad145491500341c9b9ce",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Continue to the Next Module: Making a Request",
+    "pageID": "619badfe5491500341c9b9d1",
+    "dialogTitle": "Page Incomplete",
+    "dialogBody": "<p>There are items on this page that must be completed before you can continue.</p>",
+    "incompleteButton": "Go To Incomplete",
+    "viewAllButton": "View All"
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Notifying Your Employer",
+    "displayTitle": "Notifying Your Employer",
+    "body": "<p>Jane just completed the first step for employees to make a request for an ADA accommodation: <strong>she notified her employer of the need for accommodation</strong>.</p><p>There are different considerations both the employee and supervisor need to be aware of at this point.</p>",
+    "_id": "619bafa15491500341c9b9db",
+    "_parentId": "619baf9a5491500341c9b9da",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each tab to learn more.",
+    "showIcons": false,
+    "_items": [
+      {
+        "title": "Wording",
+        "body": "<p>There is no magic word or buzzword an employee needs to use when notifying their employer of the need for an ADA accommodation. Employees don’t even need to mention the ADA at all!</p><p>Employees only need to let their employer know that an adjustment or change at work is needed and that it is related to a medical or mental health condition.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "icon": "",
+        "_classes": ""
+      },
+      {
+        "title": "Recognizing a Need",
+        "body": "<p>Supervisors need to recognize when an employee may need an ADA accommodation. Even the employee may not know an accommodation is needed, or know what to ask for.</p><p>Frequently, needs for accommodations are only discovered when the employee has a performance issue related to a condition, or simply mentions a health issue that may be affecting their work.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "icon": "",
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_component": "reveal",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Required Actions",
+    "displayTitle": "Required Actions",
+    "body": "<p>Once an ADA accommodation need is requested or recognized, several actions need to be taken.</p>",
+    "_id": "619bb16d5491500341c9b9e4",
+    "_parentId": "619bb15b5491500341c9b9e3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each action to learn more.",
+    "_columns": "2",
+    "_items": [
+      {
+        "cover": "Rights",
+        "title": "Rights",
+        "body": "<p>The supervisor must immediately make the employee aware of their rights to request an ADA accommodation. The employer cannot ignore the initial request.</p>",
+        "_animation": "fadeOutDown",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "_above": false
+        }
+      },
+      {
+        "cover": "Forms",
+        "title": "Forms",
+        "body": "<p>The supervisor must provide the Request for Reasonable Accommodation form to the employee, either by providing the employee with a printed copy or by emailing it. This form can be found online on the InfoNet under Forms (14CR003E). You can also request to be sent a copy from the OCR via email at <a href=\"mailto:civil.rights@okdhs.org\">civil.rights@okdhs.org</a>.</p>",
+        "_animation": "fadeOutDown",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "_above": false
+        }
+      },
+      {
+        "cover": "Documentation",
+        "title": "Documentation",
+        "body": "<p>If the employee wishes to pursue the accommodation request, the employee <strong>must</strong> complete the form and gather all required documentation (typically, medical documentation from a physician).</p>",
+        "_animation": "fadeOutDown",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "_above": false
+        }
+      },
+      {
+        "cover": "Submit",
+        "title": "Submit",
+        "body": "<p>The employee must submit the form and documentation, either to their supervisor or directly to the Office for Civil Rights (OCR).</p>",
+        "_animation": "fadeOutDown",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "_above": false
+        }
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Submitting the Request Materials",
+    "displayTitle": "Submitting the Request Materials",
+    "body": "<p>As Margie said, OKDHS employees have the option to submit their form and documentation directly to the Office for Civil Rights (OCR); however, it is <strong>preferred</strong> they submit these materials to their supervisor. This serves several purposes:</p><ul><li>It places the employee’s management on notice regarding the request</li><li>It keeps everyone in the loop of communication</li><li>The division may retain a copy of the request for their records</li></ul><p>Once the supervisor receives the materials, the supervisor will have their management sign the request form and submit the materials to the OCR for review. Submitting these materials to the OCR is required for an ADA accommodation to be approved.</p>",
+    "_id": "619bb3da5491500341c9b9e6",
+    "_parentId": "619bb3c25491500341c9b9e5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Medical Documentation",
+    "displayTitle": "Medical Documentation",
+    "body": "<p>Employers are only required to provide accommodations for employees who are experiencing workplace problems because of a disability. As such, you will be required to provide information from your physician regarding your condition.</p><p>Understandably, this may cause some concerns for medical privacy.</p>",
+    "_id": "619bb43a5491500341c9b9e8",
+    "_parentId": "619bb4185491500341c9b9e7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each question to address common concerns.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "How much of my health information is my employer entitled to know about?",
+        "body": "<p>Your employer may only collect the information needed to confirm you have an impairment or medical condition, to identify possible accommodation options, and to determine the probable duration of your condition.</p><p>Employers are <strong>not entitled</strong> to medical information that is <strong>unrelated</strong> to the condition for which you are requesting a work accommodation.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What if I don’t want to provide any of my medical information to my employer?",
+        "body": "<p>Employers have the right to request medical information to establish that you have an ADA-eligible disability. This is especially needed when the condition or need for accommodation is not obvious. If you do not provide your information, your employer can deny your request (please note the Office for Civil Rights will review and make the determination pursuant to the ADA).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Outcomes",
+    "displayTitle": "Outcomes",
+    "body": "<p>Once the OCR reviews the materials, two outcomes are possible.</p>",
+    "_id": "619bb5335491500341c9b9ea",
+    "_parentId": "619bb51b5491500341c9b9e9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each tab to learn more.",
+    "showIcons": false,
+    "_items": [
+      {
+        "title": "Request Approved",
+        "body": "<p>If the medical documentation is sufficient and approved, the OCR will notify the employee and their management.</p><p>Note that the OCR isn’t approving the <strong>type</strong> of accommodation; they are only approving that the employee’s condition <strong>qualifies</strong> as a disability under the ADA. The OCR will request that the employee’s management initiate a mandated interactive process with the employee to determine what the accommodation will be.</p><p>The ADA requires employers to expeditiously address and implement accommodations; unnecessary delays are a violation of the law. OKDHS policy is that, once the request is approved, managers have <strong>30 days</strong> to engage in the interactive process and implement a reasonable accommodation.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "icon": "",
+        "_classes": ""
+      },
+      {
+        "title": "Request Denied",
+        "body": "<p>The employer/division itself (for example, Child Welfare Services) cannot deny a reasonable accommodation request; only the OCR is allowed to make an accommodation determination as the Compliance Office. If the OCR denies the request, this means that the OCR has determined the employee’s condition does not qualify for a reasonable accommodation per the ADA.</p><p>If the OCR denies the request, the employee should find out why and possibly try to rectify the situation. If the employee thinks the request was denied without a valid reason, or the employer won’t say why the request was denied, the employee can do the following:</p><ul><li>Appeal the decision</li><li>File a complaint with the EEOC or state enforcement agency</li></ul><p>Please review <a href=\"https://oklahoma.gov/okdhs/library/policy/current/oac-340/chapter-1/subchapter-11/parts-3/overview-of-reasonable-accommodation-for-employees-title-i.html\" target=\"_blank\">OAC 340:1-11-41</a> for more information about appealing an ADA decision.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "icon": "",
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Conclusion",
+    "displayTitle": "Conclusion",
+    "body": "<p>Jane has received some good news! The OCR has determined her condition qualifies for an ADA accommodation.</p><p>Now, Margie and her reviewing supervisor, Brent, are required to initiate the interactive process with Jane. Continue to the next module to learn about this process, as well as what kinds of accommodations can be made.</p>",
+    "_id": "619bb6805491500341c9b9ed",
+    "_parentId": "619bb65b5491500341c9b9ec",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Go to Menu",
+    "displayTitle": "",
+    "body": "",
+    "_id": "619bb6a55491500341c9b9ef",
+    "_parentId": "619bb6955491500341c9b9ee",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Return to the Learning Modules Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "gotopage",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Go to Page",
+    "displayTitle": "",
+    "body": "",
+    "_id": "619bb6d65491500341c9b9f0",
+    "_parentId": "619bb6955491500341c9b9ee",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Continue to the Next Module: Accommodations and the Interactive Process",
+    "pageID": "619bbde25491500341c9b9f1",
+    "dialogTitle": "Page Incomplete",
+    "dialogBody": "<p>There are items on this page that must be completed before you can continue.</p>",
+    "incompleteButton": "Go To Incomplete",
+    "viewAllButton": "View All"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Interactive Process",
+    "displayTitle": "The Interactive Process",
+    "body": "<p>For some disabilities, the accommodation needed is obvious. An example is Ron needing his desk to be raised so his wheelchair can fit under it.</p><p>For other disabilities, the employee and management may need to figure out together what would work best to accommodate the employee while ensuring the goals of the agency are met. This is done through the interactive process.</p>",
+    "_id": "619bbed05491500341c9b9f6",
+    "_parentId": "619bbde35491500341c9b9f3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "m04g01",
+    "displayTitle": "",
+    "body": "",
+    "_id": "619bbee65491500341c9b9f7",
+    "_parentId": "619bbde35491500341c9b9f3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Ron sitting at his desk in his wheelchair with blocks under the desk legs to lift it up",
+      "large": "course/en/assets/bd2177dc0251bbae262aa506f894cd36409ca4e9.jpg",
+      "small": "course/en/assets/bd2177dc0251bbae262aa506f894cd36409ca4e9.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Reasonable Accommodations",
+    "displayTitle": "Reasonable Accommodations",
+    "body": "<p>Before we explore this process, it’s important to understand the concept of “reasonable accommodations.”</p><p>An accommodation is any change to the application or hiring process, to the way the job is done, or to the work environment that allows a qualified person with a disability to perform the essential functions of the job.</p><p>The law requires employers to provide <strong>reasonable</strong> accommodations. Accommodation options are considered reasonable as long as they are effective in assisting the employee in performing the essential functions of their job and <strong>do not</strong> create an undue hardship on the employer.</p>",
+    "_id": "619bbfd05491500341c9b9fd",
+    "_parentId": "619bbf9e5491500341c9b9fb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click the Next arrow to learn some examples of reasonable accommodations.",
+    "mobileInstruction": "Tap the + to read each slide, then tap the Next button to move to the next slide.",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Making Facilities Accessible",
+        "_ariaLevel": 0,
+        "body": "<p>This can mean ensuring doorways, bathroom stalls, sinks, work stations, desks, etc., are wide enough and situated to be used by people who use wheelchairs. It also means ensuring stairs do not present a hindrance to areas of the building and that parking is accessible.</p><p>Example: Juan’s employer arranged a reserved parking space that is wide enough to accommodate the wheelchair lift on Juan’s accessible van.</p>",
+        "_graphic": {
+          "src": "course/en/assets/569e0782c0d8572d4b462a129ff8c7de75ffd493.jpg",
+          "alt": "Juan using the wheelchair lift in his van in a reserved parking space",
+          "attribution": ""
+        },
+        "strapline": "Making Facilities Accessible"
+      },
+      {
+        "title": "Modified Work Schedules",
+        "_ariaLevel": 0,
+        "body": "<p>Employers may adjust the employee’s schedule to accommodate a disability, when feasible per agency or business needs.</p><p>Example: Carey’s employer allowed her to shift her work schedule an hour earlier so she can attend physical therapy appointments.</p>",
+        "_graphic": {
+          "src": "course/en/assets/17203306cc662b3f222979a68943f46aad8e0c66.jpg",
+          "alt": "Carey at a physical therapy appointment",
+          "attribution": ""
+        },
+        "strapline": "Modified Work Schedules"
+      },
+      {
+        "title": "Equipment",
+        "_ariaLevel": 0,
+        "body": "<p>The employer may purchase or modify work equipment, provided the cost is reasonable and the equipment is needed to perform the job.</p><p>Example: Carl’s employer purchased screen reader software and a Braille keyboard for him to use at work.</p>",
+        "_graphic": {
+          "src": "course/en/assets/deaec044c0c425454d09e74d573ea7044a695155.jpg",
+          "alt": "Carl typing on a Braille keyboard",
+          "attribution": ""
+        },
+        "strapline": "Equipment"
+      },
+      {
+        "title": "Interpreters",
+        "_ariaLevel": 0,
+        "body": "<p>Employers may provide qualified readers or interpreters, such as sign language interpreters, qualified notetakers, and interpreters to translate speech for people who have speech disabilities.</p><p>Example: Jessica has verbal communication problems, but occasionally must present testimony in court. Her employer provides an interpreter for her at court.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f798c6cb701bb945e05395ddae02cd9061a4fe5d.jpg",
+          "alt": "Jessica with an interpreter testifying in court",
+          "attribution": ""
+        },
+        "strapline": "Interpreters"
+      },
+      {
+        "title": "Communication Modifications",
+        "_ariaLevel": 0,
+        "body": "<p>Employers may ensure accessible training materials as well as other types of modified communication.</p><p>Example: Marcus’s supervisor began communicating his daily tasks in prioritized, written form to accommodate Marcus’s ADHD condition.</p>",
+        "_graphic": {
+          "src": "course/en/assets/6b11a8be7ab5d4f77c20a4293dc222d2b25ddd31.jpg",
+          "alt": "Marcus’s boss telling Marcus his work tasks for the day",
+          "attribution": ""
+        },
+        "strapline": "Communication Modifications"
+      }
+    ]
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Unreasonable Accommodations",
+    "displayTitle": "Unreasonable Accommodations",
+    "body": "<p>Some accommodations are <strong>not</strong> reasonable and thus are <strong>not</strong> required under the ADA. These types of accommodations include:</p><ul><li>Removing or eliminating an essential function from a job</li><li>Lowering production standards</li><li>Providing personal use items such as prosthetic limbs, a wheelchair, eyeglasses, hearing aids, or similar devices if they are also needed off the job</li></ul>",
+    "_id": "619bc6fd5491500341c9ba05",
+    "_parentId": "619bc6cf5491500341c9ba03",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Read about Pamela’s situation, then click Show Back for an Example.",
+    "animation": "flip",
+    "front": {
+      "title": "Pamela",
+      "src": "course/en/assets/3a0e426c726d16898c1eb825057cf06a68380fea.jpg",
+      "alt": "Pamela",
+      "body": "<p>Pamela is a child care licensing inspector. Part of her essential job function is to drive to child care sites and thoroughly inspect them for safety and adherence to regulations. She must be able to see so she can visually identify safety risks.</p><p>Pamela is experiencing a deterioration of her eyesight that cannot be corrected with devices or surgery. She can no longer drive and is now considered legally blind.</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Unreasonable Accommodation",
+      "src": "",
+      "alt": "",
+      "body": "<p>The OCR determines that Pamela’s condition is a qualifying disability under the ADA. As an accommodation, Pamela has requested that OKDHS assign a co-worker to drive her to all her assigned child care sites and “be her eyes” during inspections.</p><p>Since being able to visually inspect day care settings is an essential duty of her position, and because staffing budget and workload will not allow an employee to be dedicated to helping Pamela, this request is considered unreasonable and OKDHS is not required to make this accommodation.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Reassignment",
+    "displayTitle": "Reassignment",
+    "body": "<p>When the employee cannot be reasonably accommodated, the accommodation of <strong>last resort</strong> is to reassign the employee to another position, for which the employee can perform the essential functions of that position with or without an accommodation.</p>",
+    "_id": "619bd9675491500341c9ba10",
+    "_parentId": "619bd9435491500341c9ba0f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each topic to learn more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Last Resort",
+        "body": "<p>Before considering reassignment, all other options for accommodation in the employee’s current position must be explored and determined to not be reasonable. This means there are no effective accommodations that will enable the employee to perform the essential functions of their current position, and/or all other accommodations would impose an undue hardship.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Qualifications",
+        "body": "<p>The employee must be qualified for the new position, but does not have to be the best qualified candidate. If the employee is not qualified for the new position, the employer is not obligated to assist or train the person to become qualified.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Example",
+        "body": "<p>Since Pamela can no longer perform the essential functions of a child care licensing inspector due to her eyesight, she has been reassigned to an administrative position in her division. She has been provided with assistive software to help accommodate her vision disability. Per the ADA, this is a reasonable accommodation.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Questions",
+    "displayTitle": "Questions",
+    "body": "<p><strong>Select each question to learn more about the interactive process and reasonable accommodations.</strong></p>",
+    "_id": "619bf29f5491500341c9ba1a",
+    "_parentId": "619bf28f5491500341c9ba19",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Does my employer have to agree to the accommodation I want?",
+        "body": "<p>No. If there are other accommodations that will meet your needs besides the one you want, your employer is free to choose among effective accommodation choices.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Does my employer have to agree to the accommodation my health care provider recommends?",
+        "body": "<p>Your health care provider will be asked to provide recommendations as a part of the supporting medical documentation. Your accommodation can, but does not have to, follow exactly as requested by you or recommended by the provider as long as it is reasonable and effective.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What if I’m not sure of the accommodation I need?",
+        "body": "<p>Discuss the situation with your supervisor and you can explore different options together through the interactive process. Your health care provider and the OCR can also provide input.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What if the accommodation we agree to doesn’t work well for me?",
+        "body": "<p>During the interactive process, you and your supervisor will discuss a review/assessment period of the accommodation. This is typically a duration of 30, 60, or 90 days and will be included in your reasonable accommodation agreement. At the end of the duration, you and your supervisor will review/assess or evaluate how your accommodation is working for both you and the agency and make any adjustments needed.</p><p>If you find the agreed-upon accommodation does not work well for you, you do not have to wait until the specified review/reassessment period. Notify your supervisor immediately and discuss other options that might work better.</p><p>You and your supervisor are encouraged to touch base with each other occasionally (outside of the specified review/reassessment) so you can both provide input about how well you think the accommodation is working. Changes can be made to the accommodation at any time.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What if my management and I cannot come to an agreement on my ADA accommodation?",
+        "body": "<p>The OCR monitors the interactive process and is a resource to <strong>all</strong> parties. When an accommodation agreement cannot be reached in the 30-day timeframe, the OCR will step in to assist both the agency and the employee as they further engage in the interactive process.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Retaliation",
+    "displayTitle": "Retaliation",
+    "body": "<p>It is illegal for employers to retaliate against employees for requesting, receiving, or appealing a decision regarding an ADA matter.</p><p>Forms of retaliation could include the following:</p><ul><li>Unfavorable/unfair performance evaluations</li><li>Being passed over for promotions or other job opportunities</li><li>Having job duties, schedules, work environment, etc. changed in a punitive manner</li><li>Being subject to hostile interactions or words</li><li>Being excluded from office or work activities, etc.</li></ul><p>If you believe you are experiencing retaliation due to an ADA matter, or are experiencing discrimination in any form related to a disability, notify the OCR.</p>",
+    "_id": "619bf3895491500341c9ba1c",
+    "_parentId": "619bf36f5491500341c9ba1b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Conclusion",
+    "displayTitle": "Conclusion",
+    "body": "<p>If you need help with the interactive process, or any ADA-related questions, please consult with your supervisor and/or the Office for Civil Rights.</p><p>To complete the Learning Modules, <strong>click Return to the Learning Modules Menu</strong>. Look for the green banner that indicates the Learning Modules are complete. If you do not see this banner, click the title of each Learning Module to see if the Progress Bar is completely filled. If it is not, click the Progress Bar to go to the interactive activities that need to be completed.</p>",
+    "_id": "619bf4265491500341c9ba1f",
+    "_parentId": "619bf4025491500341c9ba1e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Go To Menu",
+    "displayTitle": "",
+    "body": "",
+    "_id": "619bf74b5491500341c9ba21",
+    "_parentId": "619bf73c5491500341c9ba20",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Return to the Learning Modules Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Undue Hardship",
+    "displayTitle": "Undue Hardship",
+    "body": "<p>Employers are also <strong>not</strong> required to make accommodations that would create an “undue hardship\" on the employer, meaning&nbsp;the accommodation would require significant difficulty or expense. This takes into account the resources and circumstances of the particular employer in relationship to the cost or difficulty in providing a specific accommodation. For example, a large global corporation may be able to afford or allow an accommodation that a small local business may not.</p><p>This refers not just to financial difficulty, but to accommodations that are extensive, substantial or disruptive, or those that would fundamentally alter the nature or operation of the business.</p>",
+    "_id": "619d1a615491500341c9ba23",
+    "_parentId": "619bc6cf5491500341c9ba03",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Read about Jared’s situation, then click Show Back for an example.",
+    "animation": "flip",
+    "front": {
+      "title": "Jared",
+      "src": "course/en/assets/8b33eff424a0de60e18794c4f0fa719d5a16f442.jpg",
+      "alt": "Jared",
+      "body": "<p>Jared was in a serious car crash that resulted in neurological and mobility disabilities. While he is still cognitively able to work, he will require specialized computer equipment to do his job.</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Undue Hardship",
+      "src": "",
+      "alt": "",
+      "body": "<p>The specialized equipment Jared requires costs tens of thousands of dollars. It is determined the cost of the equipment would create an undue hardship on his employer, so the request is denied.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "vimeo",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A Painful Predicament",
+    "displayTitle": "A Painful Predicament",
+    "body": "<p>At an OKDHS office, Margie, a supervisor, needs to have a difficult conversation with one of her employees, Jane.</p>",
+    "_id": "61eacb065491500341c9c67e",
+    "_parentId": "61eacafb5491500341c9c67d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Play to review the entire video and find out what happens.",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "https://vimeo.com/667955668/00019ba9cf",
+      "_autoplay": false,
+      "_loop": false
+    },
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": true,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "Transcript",
+      "transcriptLink": "course/en/assets/43e507394aa1d0d4b096ee1e2a5556b14c57058b.txt"
+    }
+  },
+  {
+    "_component": "vimeo",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Next Steps",
+    "displayTitle": "Next Steps",
+    "body": "<p>Now that Jane has notified her supervisor of her ADA accommodation need, let’s learn what comes next.</p>",
+    "_id": "61eaf2d95491500341c9c684",
+    "_parentId": "619bb0935491500341c9b9dd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Play to review the entire video.",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "https://vimeo.com/668680762/2b58018550",
+      "_autoplay": false,
+      "_loop": false
+    },
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": true,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "Transcript",
+      "transcriptLink": "course/en/assets/ac7fdda30928c5066386622d5af25ac76b7c84a9.txt"
+    }
+  },
+  {
+    "_component": "vimeo",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Request",
+    "displayTitle": "The Request",
+    "body": "",
+    "_id": "61eb0efa5491500341c9c689",
+    "_parentId": "619badfe5491500341c9b9d3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Play to review the entire video.",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "https://vimeo.com/668718107/f38887c209",
+      "_autoplay": false,
+      "_loop": false
+    },
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": true,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "Transcript",
+      "transcriptLink": "course/en/assets/3b5f0456edd428a0bcbceef8381cffdb3586a9be.txt"
+    }
+  },
+  {
+    "_component": "vimeo",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Interactive Process",
+    "displayTitle": "The Interactive Process",
+    "body": "<p>Employers and employees agree on a reasonable accommodation through the interactive process. This process is the employer and employee having a discussion to explore&nbsp;reasonable accommodation options together and coming to an agreement on the accommodation.</p><p>Let’s see how Jane, Margie, and Margie’s reviewing supervisor Brent engage in this process.</p>",
+    "_id": "61f81bf50edb6d033e510666",
+    "_parentId": "619bda0f5491500341c9ba12",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Play to review the entire video.",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "https://vimeo.com/671982722/0fca10d709",
+      "_autoplay": false,
+      "_loop": false
+    },
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": true,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "Transcript",
+      "transcriptLink": "course/en/assets/5a3624a2e7357b43244c5adef541a013d3f1f3c9.txt"
+    }
+  },
+  {
+    "_component": "vimeo",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "But I Don’t Have a Disability...or Do I?",
+    "displayTitle": "But I Don’t Have a Disability...or Do I?",
+    "body": "",
+    "_id": "620174ed0edb6d033e510672",
+    "_parentId": "6196d5fb5491500341c9b998",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Play to review the entire video.",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "https://vimeo.com/674526437/8a2e01529f",
+      "_autoplay": false,
+      "_loop": false
+    },
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": true,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "Transcript",
+      "transcriptLink": "course/en/assets/357ef317a467f76289f4b752a9e52d8a11473c20.txt"
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A3, B1 Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6216a0070edb6d033e510b48",
+    "_parentId": "62169f9d0edb6d033e510b46",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]
